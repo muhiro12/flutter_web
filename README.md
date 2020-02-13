@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Starting web server
 
-    sh init.sh
+    sh start.sh
